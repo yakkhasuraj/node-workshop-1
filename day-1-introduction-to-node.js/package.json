@@ -1,0 +1,19 @@
+{
+  "name": "day-1-introduction-to-node",
+  "version": "1.0.0",
+  "description": "Introduction to Node.js",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "start:dev": "node index.js"
+  },
+  "keywords": [
+    "Node.js"
+  ],
+  "author": "Suraj Yakkha",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.0"
+  }
+}
