@@ -1,0 +1,17 @@
+{
+  "name": "day-2-asynchronous-programming-with-callbacks",
+  "version": "1.0.0",
+  "description": "Asynchronous Programming with Callbacks",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "Node.js"
+  ],
+  "author": "Suraj Yakkha",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.2.4"
+  }
+}
