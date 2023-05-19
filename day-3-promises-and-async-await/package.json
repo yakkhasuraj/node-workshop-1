@@ -1,0 +1,14 @@
+{
+  "name": "day-3-promises-and-async-await",
+  "version": "1.0.0",
+  "description": "Promises and Async/Await",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "Node.js"
+  ],
+  "author": "Suraj Yakkha",
+  "license": "ISC"
+}
